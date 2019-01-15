@@ -1,0 +1,301 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Powers2007}
+Powers AM, Logue CH (2007) {Changing patterns of Chikungunya virus:
+  re-emergence of a zoonotic arbovirus.}
+\newblock Journal of General Virology 88: 2363--77.
+\bibAnnoteFile{Powers2007}
+
+\bibitem{Staples2009}
+Staples JE, Breiman RF, Powers AM (2009) {Chikungunya fever: an epidemiological
+  review of a re-emerging infectious disease.}
+\newblock Clinical Infectious Diseases 49: 942--8.
+\bibAnnoteFile{Staples2009}
+
+\bibitem{Pialoux2007}
+Pialoux G, Ga\"{u}z\`{e}re BA (2007) {Chikungunya, an epidemic arbovirosis}.
+\newblock Lancet Infectious Diseases 7: 319--327.
+\bibAnnoteFile{Pialoux2007}
+
+\bibitem{Tsetsarkin2007}
+Tsetsarkin KA, Vanlandingham DL, McGee CE, Higgs S (2007) {A single mutation in
+  Chikungunya virus affects vector specificity and epidemic potential.}
+\newblock PLOS Pathogens 3: e201.
+\bibAnnoteFile{Tsetsarkin2007}
+
+\bibitem{Josseran2006}
+Josseran L, Paquet C, Zehgnoun A, Caillere N, Le~Tertre A, et~al. (2006)
+  Chikungunya disease outbreak, reunion island.
+\newblock Emerging Infectious Diseases 12: 1994.
+\bibAnnoteFile{Josseran2006}
+
+\bibitem{Rezza2007}
+Rezza G, Nicoletti L, Angelini R, Romi R, Finarelli A, et~al. (2007) Infection
+  with chikungunya virus in italy: an outbreak in a temperate region.
+\newblock Lancet 370: 1840--1846.
+\bibAnnoteFile{Rezza2007}
+
+\bibitem{Weaver2010}
+Weaver SC, Reisen WK (2010) {Present and future arboviral threats.}
+\newblock Antiviral Research 85: 328--45.
+\bibAnnoteFile{Weaver2010}
+
+\bibitem{Weaver2014}
+Weaver SC (2014) {Arrival of Chikungunya virus in the new world: prospects for
+  spread and impact on public health.}
+\newblock PLOS Neglected Tropical Diseases 8: e2921.
+\bibAnnoteFile{Weaver2014}
+
+\bibitem{Staples2014}
+Staples JE, Fischer M (2014) {Chikunguna virus in the Americas -- What a vector
+  borne pathogen can do}.
+\newblock New England Journal of Medicine 371: 887--9.
+\bibAnnoteFile{Staples2014}
+
+\bibitem{Leparc2014}
+Leparc-Goffart I, Nougairede A, Cassadou S, Prat C, de~Lamballerie X (2014)
+  {Chikungunya in the Americas}.
+\newblock Lancet 383: 514.
+\bibAnnoteFile{Leparc2014}
+
+\bibitem{Tatem2012}
+Tatem AJ, Huang Z, Das A, Qi Q, Roth J, et~al. (2012) {Air travel and
+  vector-borne disease movement}.
+\newblock Parasitology 139: 1816--1830.
+\bibAnnoteFile{Tatem2012}
+
+\bibitem{Johansson2014}
+Johansson MA, Powers AM, Pesik N, Cohen NJ, Staples JE (2014) {Nowcasting the
+  spread of Chikungunya virus in the Americas.}
+\newblock PLOS One 9: e104915.
+\bibAnnoteFile{Johansson2014}
+
+\bibitem{Cauchemez2014}
+Cauchemez S, Ledrans M, Poletto C, Quenel P, Valk HD, et~al. (2014) {Local and
+  regional spread of Chikungunya fever in the Americas}.
+\newblock Eurosurveillance 19: 20854.
+\bibAnnoteFile{Cauchemez2014}
+
+\bibitem{Khan2014}
+Khan K, Bogoch I, Brownstein JS, Miniota J, Nicolucci A, et~al. (2014)
+  {Assessing the Origin of and Potential for International Spread of
+  Chikungunya Virus from the Caribbean}.
+\newblock PLOS Currents Outbreaks 1: 1--11.
+\bibAnnoteFile{Khan2014}
+
+\bibitem{Ruiz-Moreno2012}
+Ruiz-Moreno D, Vargas IS, Olson KE, Harrington LC (2012) {Modeling dynamic
+  introduction of Chikungunya virus in the United States}.
+\newblock PLOS Neglected Tropical Diseases 6: e1918.
+\bibAnnoteFile{Ruiz-Moreno2012}
+
+\bibitem{Chan2012}
+Chan M, Johansson MA (2012) {The incubation periods of dengue viruses}.
+\newblock PLOS One 7: e50972.
+\bibAnnoteFile{Chan2012}
+
+\bibitem{Brady2014}
+Brady OJ, Golding N, Pigott DM, Kraemer MUG, Messina JP, et~al. (2014) {Global
+  temperature constraints on \textit{Aedes aegypti} and \textit{Ae. albopictus}
+  persistence and competence for dengue virus transmission.}
+\newblock Parasites \& Vectors 7: 338.
+\bibAnnoteFile{Brady2014}
+
+\bibitem{Sissoko2008}
+Sissoko D, Moendandze A, Malvy D, Giry C, Ezzedine K, et~al. (2008)
+  {Seroprevalence and risk factors of chikungunya virus infection in Mayotte,
+  Indian Ocean, 2005-2006: a population-based survey.}
+\newblock PLOS One 3: e3066.
+\bibAnnoteFile{Sissoko2008}
+
+\bibitem{Schwarz2012}
+Schwarz NG, Girmann M, Randriamampionona N, Bialonski A, Maus D, et~al. (2012)
+  {Seroprevalence of antibodies against Chikungunya, dengue, and Rift Valley
+  fever viruses after febrile illness outbreak, Madagascar}.
+\newblock Emerging Infectious Diseases 18.
+\bibAnnoteFile{Schwarz2012}
+
+\bibitem{Finkenstadt2000}
+Finkenst\"{a}dt BF, Grenfell BT (2000) {Time series modelling of childhood
+  diseases: a dynamical systems approach}.
+\newblock Journal of the Royal Statistical Society Series C 49: 187--205.
+\bibAnnoteFile{Finkenstadt2000}
+
+\bibitem{Grenfell2001}
+Grenfell BT, Bj\"{o}rnstad ON, Kappey J (2001) {Travelling waves and spatial
+  hierarchies in measles epidemics.}
+\newblock Nature 414: 716--23.
+\bibAnnoteFile{Grenfell2001}
+
+\bibitem{Koelle2004}
+Koelle K, Pascual M (2004) {Disentangling extrinsic from intrinsic factors in
+  disease dynamics: a nonlinear time series approach with an application to
+  cholera.}
+\newblock American Naturalist 163: 901--13.
+\bibAnnoteFile{Koelle2004}
+
+\bibitem{Xia2004}
+Xia Y, Bj\"{o}rnstad ON, Grenfell BT (2004) {Measles metapopulation dynamics: a
+  gravity model for epidemiological coupling and dynamics.}
+\newblock American Naturalist 164: 267--81.
+\bibAnnoteFile{Xia2004}
+
+\bibitem{Pascual2008}
+Pascual M, Cazelles B, Bouma MJ, Chaves LF, Koelle K (2008) {Shifting patterns:
+  malaria dynamics and rainfall variability in an African highland.}
+\newblock Proceedings of the Royal Society Series B 275: 123--32.
+\bibAnnoteFile{Pascual2008}
+
+\bibitem{Metcalf2010}
+Metcalf CJE, Bj\"{o}rnstad ON, Ferrari MJ, Klepac P, Bharti N, et~al. (2010)
+  {The epidemiology of rubella in Mexico: seasonality, stochasticity and
+  regional variation.}
+\newblock Epidemiology and Infection 139: 1--10.
+\bibAnnoteFile{Metcalf2010}
+
+\bibitem{Metcalf2011}
+Metcalf CJE, Munayco CV, Chowell G, Grenfell BT, Bj\"{o}rnstad ON (2011)
+  {Rubella metapopulation dynamics and importance of spatial coupling to the
+  risk of congenital rubella syndrome in Per\'u}.
+\newblock Journal of the Royal Society Interface 8: 369--76.
+\bibAnnoteFile{Metcalf2011}
+
+\bibitem{Reich2013}
+Reich NG, Shrestha S, King AA, Rohani P, Lessler J, et~al. (2013) {Interactions
+  between serotypes of dengue highlight epidemiological impact of
+  cross-immunity.}
+\newblock Journal of the Royal Society Interface 10: 20130414.
+\bibAnnoteFile{Reich2013}
+
+\bibitem{R}
+{R Core Team} (2014) R: A Language and Environment for Statistical Computing.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+\newblock \urlprefix\url{http://www.R-project.org/}.
+\bibAnnoteFile{R}
+
+\bibitem{Perkins2013}
+Perkins TA, Scott TW, {Le Menach} A, Smith DL (2013) {Heterogeneity, mixing,
+  and the spatial scales of mosquito-borne pathogen transmission}.
+\newblock PLOS Computational Biology 9: e1003327.
+\bibAnnoteFile{Perkins2013}
+
+\bibitem{Liu1987}
+Liu W, Hethcote HW, Levin SA (1987) Dynamical behavior of epidemiological
+  models with nonlinear incidence rates.
+\newblock Journal of Mathematical Biology 25: 359--380.
+\bibAnnoteFile{Liu1987}
+
+\bibitem{Glass2003}
+Glass K, Xia Y, Grenfell B (2003) {Interpreting time-series analyses for
+  continuous-time biological models: measles as a case study}.
+\newblock Journal of Theoretical Biology 223: 19--25.
+\bibAnnoteFile{Glass2003}
+
+\bibitem{Panhuis2013}
+van Panhuis WG, Grefenstette J, Jung SY, Chok NS, Cross A, et~al. (2013)
+  {Contagious diseases in the United States from 1888 to the present}.
+\newblock New England Journal of Medicine 369: 2152--2158.
+\bibAnnoteFile{Panhuis2013}
+
+\bibitem{Hijmans2005}
+Hijmans RJ, Cameron SE, Parra JL, Jones PG, Jarvis A (2005) {Very high
+  resolution interpolated climate surfaces for global land areas}.
+\newblock International Journal of Climatology 25: 1965--1978.
+\bibAnnoteFile{Hijmans2005}
+
+\bibitem{MASS}
+Venables WN, Ripley BD (2002) Modern Applied Statistics with S.
+\newblock New York: Springer, fourth edition.
+\newblock \urlprefix\url{http://www.stats.ox.ac.uk/pub/MASS4}.
+\newblock ISBN 0-387-95457-0.
+\bibAnnoteFile{MASS}
+
+\bibitem{Hii2012}
+Hii Y, Rockl\"{o}v J, Wall S, Ng L (2012) {Optimal lead time for dengue
+  forecast}.
+\newblock PLOS Neglected Tropical Diseases 6: e1848.
+\bibAnnoteFile{Hii2012}
+
+\bibitem{Chowell2011}
+Chowell G, Cazelles B, Broutin H, Munayco CV (2011) {The influence of
+  geographic and climate factors on the timing of dengue epidemics in Per\'{u},
+  1994-2008.}
+\newblock BMC Infectious Diseases 11: 164.
+\bibAnnoteFile{Chowell2011}
+
+\bibitem{Bolker1995}
+Bolker B, Grenfell B (1995) Space, persistence and dynamics of measles
+  epidemics.
+\newblock Philosophical Transactions of the Royal Society of London Series B
+  348: 309--320.
+\bibAnnoteFile{Bolker1995}
+
+\bibitem{Grenfell1997}
+Grenfell B, Harwood J (1997) {(Meta) population dynamics of infectious
+  diseases}.
+\newblock Trends in Ecology \& Evolution 12: 395--399.
+\bibAnnoteFile{Grenfell1997}
+
+\bibitem{Bahl2011}
+Bahl J, Nelson MI, Chan KH, Chen R, Vijaykrishna D, et~al. (2011) {Temporally
+  structured metapopulation dynamics and persistence of influenza A H3N2 virus
+  in humans.}
+\newblock Proceedings of the National Academy of Sciences 108: 19359--19364.
+\bibAnnoteFile{Bahl2011}
+
+\bibitem{Klepac2011}
+Klepac P, Laxminarayan R, Grenfell BT (2011) {Synthesizing epidemiological and
+  economic optima for control of immunizing infections}.
+\newblock Proceedings of the National Academy of Sciences 108: 14366--14370.
+\bibAnnoteFile{Klepac2011}
+
+\bibitem{Yakob2013}
+Yakob L, Clements ACA (2013) {A mathematical model of Chikungunya dynamics and
+  control: the major epidemic on R\'{e}union Island.}
+\newblock PLOS One 8: e57448.
+\bibAnnoteFile{Yakob2013}
+
+\bibitem{Robinson2014}
+Robinson M, Conan A, Duong V, Ly S, Ngan C, et~al. (2014) {A model for a
+  Chikungunya outbreak in a rural Cambodian setting: implications for disease
+  control in uninfected areas.}
+\newblock PLOS Neglected Tropical Diseases 8: e3120.
+\bibAnnoteFile{Robinson2014}
+
+\bibitem{Johansson2011}
+Johansson MA, Hombach J, Cummings DAT (2011) {Models of the impact of dengue
+  vaccines: A review of current research and potential approaches}.
+\newblock Vaccine 29: 5860--5868.
+\bibAnnoteFile{Johansson2011}
+
+\bibitem{Reiner2014}
+Reiner RC, Stoddard ST, Forshey BM, King AA, Ellis AM, et~al. (2014)
+  {Time-varying, serotype-specific force of infection of dengue virus.}
+\newblock Proceedings of the National Academy of Sciences 111: E2694--702.
+\bibAnnoteFile{Reiner2014}
+
+\bibitem{Mills2014}
+Mills HL, Riley S (2014) {The spatial resolution of epidemic peaks.}
+\newblock PLOS Computational Biology 10: e1003561.
+\bibAnnoteFile{Mills2014}
+
+\bibitem{Johansson2009}
+Johansson MA, Dominici F, Glass GE (2009) {Local and global effects of climate
+  on dengue transmission in Puerto Rico.}
+\newblock PLOS Neglected Tropical Diseases 3: e382.
+\bibAnnoteFile{Johansson2009}
+
+\end{thebibliography}
